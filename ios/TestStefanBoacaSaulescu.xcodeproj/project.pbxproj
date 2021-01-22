@@ -169,7 +169,6 @@
 				30C8344BEB7CAFFE9673D198 /* Pods-TestStefanBoacaSaulescu-tvOSTests.debug.xcconfig */,
 				F46E6A591ED21879870D86D8 /* Pods-TestStefanBoacaSaulescu-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

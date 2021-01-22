@@ -1,3 +1,4 @@
+//Acest navigator continne cele 3 pagini cu tab-uri
 import React from 'react';
 import {createMaterialBottomTabNavigator} from '@react-navigation/material-bottom-tabs';
 import {Favorites, Home, Search} from '../../screens';
