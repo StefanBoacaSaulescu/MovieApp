@@ -136,6 +136,14 @@
 			name = TestStefanBoacaSaulescu;
 			sourceTree = "<group>";
 		};
+		1ABC0CCCFF334EAE8F8CC0BE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -180,6 +188,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				51071C0306F5F6FC11473F72 /* Pods */,
+				1ABC0CCCFF334EAE8F8CC0BE /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
